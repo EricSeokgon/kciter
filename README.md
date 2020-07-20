@@ -1,6 +1,6 @@
 <p align="left">
-  <a href="https://cobalt.run">
-    <img src="https://badgen.net/badge/icon/Cobalt Developer?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
+  <a href="https://hadeslee.tistory.com/">
+    <img src="https://badgen.net/badge/icon/EricSeokgon Developer?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
   </a>
   <a href="https://ko-fi.com/kciter">
     <img src="https://badgen.net/badge/icon/Buy a coffee?icon=kofi&label&color=29ABE0&labelColor=29ABE0" />
